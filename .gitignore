@@ -1,7 +1,6 @@
-./backend/node_modules
-./backend/.env
-./backend/.dockerignore
+node_modules
+.env
+.dockerignore
 
-./client/node_modules
-./client/.dockerignore
+
 
